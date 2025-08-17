@@ -34,29 +34,30 @@ These projects serve several objectives:
 To run the examples, navigate into the respective project folder and use the appropriate compiler or interpreter:
 
 - **C / C++**  
-  ```bash
+
+```bash
   gcc example.c -o example && ./example
   g++ example.cpp -o example && ./example
 ````
 
 - **Java**
 
-  ```bash
+```bash
   javac Example.java
   java Example
-  ```
+```
 
 - **Python**
 
-  ```bash
+```bash
   python3 example.py
-  ```
+```
 
 - **Ruby**
 
-  ```bash
+```bash
   ruby example.rb
-  ```
+```
 
 ---
 
@@ -73,3 +74,4 @@ To run the examples, navigate into the respective project folder and use the app
 This repository is provided **as-is** for testing and educational purposes.
 
 Check individual files for any language-specific licensing references.
+
